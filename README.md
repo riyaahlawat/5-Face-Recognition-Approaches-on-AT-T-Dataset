@@ -1,1 +1,1 @@
-# 5-Face-Recognition-Approaches-on-AT-T-Dataset
+# 5-ML-Methods-for-Face-Recognition on AT&T Dataset
